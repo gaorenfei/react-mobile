@@ -1,0 +1,1 @@
+export const LOGIN = "login"; //登录
